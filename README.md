@@ -2,6 +2,13 @@
 
 I'm a self-taught **MERN stack developer** based in **Dubai**, reigniting my tech career after a long break. Passionate about creating scalable and impactful web applications, I focus on real-world business solutions for clients across the UAE and India.
 
+🔭 Currently building: Scalable full-stack applications using React, Node.js, Express, and MongoDB.  
+🌱 Expanding my skills in: TypeScript, Next.js, MySQL, and deploying apps on AWS.  
+💡 Curious about: MERN stack workflows, performance optimization, and real-world business logic implementation.  
+🤝 Open to: Collaborations on impactful web projects, freelance work, and remote opportunities.  
+📬 Let's connect: ashidhaa@gmail.com  
+✨ Fun tidbit: I love combining creativity and logic — turning client needs into elegant, functional digital experiences.
+
 ---
 ## 🌟 Current Project: SuperiorpackUAE
 
