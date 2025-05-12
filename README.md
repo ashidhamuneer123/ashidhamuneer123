@@ -7,27 +7,13 @@ I'm a self-taught **MERN stack developer** based in **Dubai**, reigniting my tec
 
 🚀 A full-stack business website developed for a **UAE-based packaging company** to replace their WordPress platform with a modern, scalable solution.
 
-## 💻 My Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![EJS](https://img.shields.io/badge/-EJS-4e4e4e?logo=javascript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Multer](https://img.shields.io/badge/-Multer-red?logo=npm&logoColor=white&style=flat)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![PDFKit](https://img.shields.io/badge/-PDFKit-00599C?logo=adobe-acrobat-reader&logoColor=white&style=flat)
-![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4CAF50?style=flat)
+### 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, Bootstrap, EJS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB Atlas
+- **Image Storage**: Multer + Cloudinary
+- **Hosting**: AWS EC2
+- **PDF Generation**: Puppeteer
 
 
 ### 📦 Key Features
@@ -59,14 +45,22 @@ This project is tailored to improve the reordering experience for existing custo
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![EJS](https://img.shields.io/badge/-EJS-4e4e4e?logo=javascript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Multer](https://img.shields.io/badge/-Multer-red?logo=npm&logoColor=white&style=flat)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?logo=google-chrome&logoColor=white&style=flat)
+![PDFKit](https://img.shields.io/badge/-PDFKit-00599C?logo=adobe-acrobat-reader&logoColor=white&style=flat)
+![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4CAF50?style=flat)
 
 ---
 
