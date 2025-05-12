@@ -13,7 +13,7 @@ I'm a self-taught **MERN stack developer** based in **Dubai**, reigniting my tec
 - **Database**: MongoDB Atlas
 - **Image Storage**: Multer + Cloudinary
 - **Hosting**: AWS EC2
-- **PDF Generation**: Puppeteer
+- **PDF Generation**: Pdfkit
 
 
 ### 📦 Key Features
