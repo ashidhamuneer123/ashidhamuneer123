@@ -76,7 +76,7 @@ This project is tailored to improve the reordering experience for existing custo
 
 ## 📬 Contact Me
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/ashidha-muneer-35618b13a/
+- 💼 LinkedIn:https://www.linkedin.com/in/ashidha-muneer-35618b13a/
 - 📫 Email: ashidhaa@gmail.com 
 
 ---
