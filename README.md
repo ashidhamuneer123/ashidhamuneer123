@@ -62,7 +62,7 @@ Customers can log in to reorder customized products, and the admin receives orde
 
 ## 📊 GitHub Stats
 
-![Ashidha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Ashidha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashidhamuneer123&show_icons=true&theme=radical)
 
 ---
 
