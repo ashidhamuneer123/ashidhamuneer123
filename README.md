@@ -3,27 +3,39 @@
 I'm a self-taught **MERN stack developer** based in **Dubai**, reigniting my tech career after a long break. Passionate about creating scalable and impactful web applications, I focus on real-world business solutions for clients across the UAE and India.
 
 ---
-
 ## 🌟 Current Project: SuperiorpackUAE
 
-🚀 A full-stack solution built for a UAE-based packaging company to replace their existing WordPress site.
+🚀 A full-stack business website developed for a **UAE-based packaging company** to replace their WordPress platform with a modern, scalable solution.
 
-**🔧 Tech Stack Used:**
-- Frontend: `HTML`, `CSS`, `Bootstrap`, `EJS`
-- Backend: `Node.js`, `Express`
-- Database: `MongoDB Atlas`
-- Image Handling: `Multer`, `Cloudinary`
-- Hosting: `AWS`
-- PDF Generation: `Puppeteer`
+### 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, Bootstrap, EJS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB Atlas
+- **Image Storage**: Multer + Cloudinary
+- **Hosting**: AWS EC2
+- **PDF Generation**: Puppeteer
 
-**📦 Features:**
-- User Management
-- Product Management
-- Category Management
-- Order Management
-- Quotation Generation in PDF format for reorder requests
+### 📦 Key Features
 
-Customers can log in to reorder customized products, and the admin receives order details via email and dashboard.
+#### 🔐 Admin Side:
+- Secure login for admin
+- **Category Management**: Add, update, delete categories (e.g., bags, cups, boxes)
+- **Product Management**: Add, edit, delete products under specific categories
+- **User Management**: Add existing customers to the system manually
+- **Order Management**: View and manage reorders placed by customers
+- **Quotation PDF**: Automatically generate and download quotation PDFs using Puppeteer
+- **Email Notifications**: Receive order notifications by email
+
+#### 👤 Customer Side:
+- Login functionality for registered customers
+- View their **personalized product list**
+- **Reorder** from previously ordered items
+- Submit request for quotation
+- Receive quotation in **PDF format**
+
+This project is tailored to improve the reordering experience for existing customers and streamline product management and communication for the admin.
+
+
 
 ---
 
